@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap'); */
 
 *,
 ::before,
@@ -834,9 +834,9 @@ footer .social a {
     padding: 11px 11px;
 }
 
-footer .social span {
+footer .social svg {
     color: #1A202C;
-}
+} 
 
 .sub-footer {
     color: #4A5568;
